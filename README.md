@@ -1,4 +1,5 @@
 # Edicom Challenge
+<img src="https://careers.edicomgroup.com/wp-content/uploads/2020/03/EDICOM_sede_valencia.jpg">
 Con ayuda de un programa, realiza un cálculo a partir de este texto. Este cálculo consistirá en contar el número de líneas en las que aparecen exactamente tres caracteres iguales, y de forma separada, el número de líneas en las que aparecen exactamente cuatro caracteres iguales.
 
 El resultado se tendrá que enviar como la diferencia de estos dos números.
